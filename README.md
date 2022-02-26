@@ -1,9 +1,9 @@
 # Major_Project
 Diabetes Predection with risk factors
 
-Dataset is "Diabetic.csv" File
+Dataset is "diabetese.csv" File
 
-Open "Diabetece.py" file and run the file as notebook to see the acuracy of the algorithms.
+Open "diabetes-prediction.ipynb" file and run the file as notebook to see the acuracy of the algorithms.
 
 Required Output as:
 1. Need to diaplay the project with User Interface
